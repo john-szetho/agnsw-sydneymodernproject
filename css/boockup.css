@@ -102,8 +102,8 @@ a {
 .book-container {
   -webkit-transform-style: preserve-3d;
   transform-style: preserve-3d;
-  -webkit-animation: 20s rotatingAnimationY linear infinite;
-  animation: 20s rotatingAnimationY linear infinite;
+  -webkit-animation: 15s rotatingAnimationY linear infinite;
+  animation: 15s rotatingAnimationY linear infinite;
 }
 .book-container > div {
   position: absolute;
